@@ -1,6 +1,10 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 gate.computer/gate v0.0.0-20210220013651-0b4ac1803fb7 h1:oPHoddFc0XVStpXpFLdG2Hr2/tewdNDtfgKd6fLVT+w=
 gate.computer/gate v0.0.0-20210220013651-0b4ac1803fb7/go.mod h1:GBWZljqCgT9HXOwoQYoVdi9wbfiJiur7iW+eZYfR5ew=
+gate.computer/gate v0.0.0-20210306193033-277c0b06fac1 h1:sWJvv7Tqrcq6LeIa1AeWi17lrXAxFKKhvhDtWmLT+Ic=
+gate.computer/gate v0.0.0-20210306193033-277c0b06fac1/go.mod h1:GBWZljqCgT9HXOwoQYoVdi9wbfiJiur7iW+eZYfR5ew=
+gate.computer/gate v0.0.0-20210306205302-eae957c269c7 h1:eCuWEhXiRvPHIZaRzdkEwfsBkEhotGVZuDrqYUgeRY4=
+gate.computer/gate v0.0.0-20210306205302-eae957c269c7/go.mod h1:GBWZljqCgT9HXOwoQYoVdi9wbfiJiur7iW+eZYfR5ew=
 gate.computer/localhost v0.0.0-20210220124054-cc1331970848 h1:r0GDD5DkfvN+9tzeqgWXt+u0Dkc7CxawiCbWInNo+gM=
 gate.computer/localhost v0.0.0-20210220124054-cc1331970848/go.mod h1:Dvpjsda7xyfrx+lIyycBxqYy2z0zZsmjB3AoCj3iLU8=
 gate.computer/wag v0.33.0 h1:7re8R3xZ4gQS5gdy/XmkkfcDNftSMucWFEhFkJoQ3sc=
