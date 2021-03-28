@@ -5,6 +5,8 @@ gate.computer/gate v0.0.0-20210306193033-277c0b06fac1 h1:sWJvv7Tqrcq6LeIa1AeWi17
 gate.computer/gate v0.0.0-20210306193033-277c0b06fac1/go.mod h1:GBWZljqCgT9HXOwoQYoVdi9wbfiJiur7iW+eZYfR5ew=
 gate.computer/gate v0.0.0-20210306205302-eae957c269c7 h1:eCuWEhXiRvPHIZaRzdkEwfsBkEhotGVZuDrqYUgeRY4=
 gate.computer/gate v0.0.0-20210306205302-eae957c269c7/go.mod h1:GBWZljqCgT9HXOwoQYoVdi9wbfiJiur7iW+eZYfR5ew=
+gate.computer/gate v0.0.0-20210328025118-3a62ea290fa1 h1:j02IqSW0hnLNopredIZkDqPyQ8k9RZ5ve9AoiADlZfw=
+gate.computer/gate v0.0.0-20210328025118-3a62ea290fa1/go.mod h1:nJ+mqTjuyQfZCXz0qqv3dnKP0dsGr5mXmdpVTr7YRmw=
 gate.computer/localhost v0.0.0-20210220124054-cc1331970848 h1:r0GDD5DkfvN+9tzeqgWXt+u0Dkc7CxawiCbWInNo+gM=
 gate.computer/localhost v0.0.0-20210220124054-cc1331970848/go.mod h1:Dvpjsda7xyfrx+lIyycBxqYy2z0zZsmjB3AoCj3iLU8=
 gate.computer/wag v0.33.0 h1:7re8R3xZ4gQS5gdy/XmkkfcDNftSMucWFEhFkJoQ3sc=
@@ -98,6 +100,7 @@ golang.org/x/sys v0.0.0-20200625212154-ddb9806d33ae/go.mod h1:h1NjWce9XRLGQEsW7w
 golang.org/x/sys v0.0.0-20201119102817-f84b799fce68/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.0.0-20210219172841-57ea560cfca1 h1:mDSj8NPponP6fRpRDblAGl5bpSHjPulHtk5lGl0gLSY=
 golang.org/x/sys v0.0.0-20210219172841-57ea560cfca1/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20210317225723-c4fcb01b228e/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/term v0.0.0-20201117132131-f5c789dd3221/go.mod h1:Nr5EML6q2oocZ2LXRh80K7BxOlk5/8JxuGnuhpl+muw=
 golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1 h1:v+OssWQX+hTHEmOBgwxdZxK4zHq3yOs8F9J7mk0PY8E=
 golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1/go.mod h1:bj7SfCRtBDWHUb9snDiAeCFNEtKQo2Wmx5Cou7ajbmo=
