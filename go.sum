@@ -7,6 +7,8 @@ gate.computer/gate v0.0.0-20210306205302-eae957c269c7 h1:eCuWEhXiRvPHIZaRzdkEwfs
 gate.computer/gate v0.0.0-20210306205302-eae957c269c7/go.mod h1:GBWZljqCgT9HXOwoQYoVdi9wbfiJiur7iW+eZYfR5ew=
 gate.computer/gate v0.0.0-20210328025118-3a62ea290fa1 h1:j02IqSW0hnLNopredIZkDqPyQ8k9RZ5ve9AoiADlZfw=
 gate.computer/gate v0.0.0-20210328025118-3a62ea290fa1/go.mod h1:nJ+mqTjuyQfZCXz0qqv3dnKP0dsGr5mXmdpVTr7YRmw=
+gate.computer/gate v0.0.0-20210401011447-c0dbaf02eb5c h1:8CePl+XzliEiiADxtbjrtKOHctYNT0a3jGxCa3VH7aE=
+gate.computer/gate v0.0.0-20210401011447-c0dbaf02eb5c/go.mod h1:Ta0OvqJ7mhmc5Hi0nEhSpdVp3Najwe9PeIfN2xVD5K0=
 gate.computer/localhost v0.0.0-20210220124054-cc1331970848 h1:r0GDD5DkfvN+9tzeqgWXt+u0Dkc7CxawiCbWInNo+gM=
 gate.computer/localhost v0.0.0-20210220124054-cc1331970848/go.mod h1:Dvpjsda7xyfrx+lIyycBxqYy2z0zZsmjB3AoCj3iLU8=
 gate.computer/wag v0.33.0 h1:7re8R3xZ4gQS5gdy/XmkkfcDNftSMucWFEhFkJoQ3sc=
@@ -100,6 +102,7 @@ golang.org/x/sys v0.0.0-20200625212154-ddb9806d33ae/go.mod h1:h1NjWce9XRLGQEsW7w
 golang.org/x/sys v0.0.0-20201119102817-f84b799fce68/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/sys v0.0.0-20210219172841-57ea560cfca1 h1:mDSj8NPponP6fRpRDblAGl5bpSHjPulHtk5lGl0gLSY=
 golang.org/x/sys v0.0.0-20210219172841-57ea560cfca1/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20210317225723-c4fcb01b228e h1:XNp2Flc/1eWQGk5BLzqTAN7fQIwIbfyVTuVxXxZh73M=
 golang.org/x/sys v0.0.0-20210317225723-c4fcb01b228e/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
 golang.org/x/term v0.0.0-20201117132131-f5c789dd3221/go.mod h1:Nr5EML6q2oocZ2LXRh80K7BxOlk5/8JxuGnuhpl+muw=
 golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1 h1:v+OssWQX+hTHEmOBgwxdZxK4zHq3yOs8F9J7mk0PY8E=
@@ -140,3 +143,7 @@ google.golang.org/protobuf v1.25.0 h1:Ejskq+SyPohKW+1uil0JJMtmHCgJPJ/qWTxr8qp+R4
 google.golang.org/protobuf v1.25.0/go.mod h1:9JNX74DMeImyA3h4bdi1ymwjUzf21/xIlbajtzgsN7c=
 honnef.co/go/tools v0.0.0-20190102054323-c2f93a96b099/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
 honnef.co/go/tools v0.0.0-20190523083050-ea95bdfd59fc/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=
+kernel.org/pub/linux/libs/security/libcap/cap v1.2.49 h1:l/z5YU1YTeIo872V3L577f49PgLvSGTstopFJMASdAc=
+kernel.org/pub/linux/libs/security/libcap/cap v1.2.49/go.mod h1:SDveHFdFe7G0H/t18WEsVxAsBGUGvSF5tuOY6yN0+xo=
+kernel.org/pub/linux/libs/security/libcap/psx v1.2.49 h1:hlS5NSqyydHYranE120TzuEEaTAPLVyi1dm0tYSYMbg=
+kernel.org/pub/linux/libs/security/libcap/psx v1.2.49/go.mod h1:+l6Ee2F59XiJ2I6WR5ObpC1utCQJZ/VLsEbQCD8RG24=
