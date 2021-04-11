@@ -1,4 +1,4 @@
-module gate.computer/services
+module gate.computer/cmd
 
 go 1.16
 

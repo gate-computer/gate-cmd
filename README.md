@@ -9,8 +9,8 @@ Build instructions:
 
 	go install gate.computer/gate/cmd/gate@latest
 	go install gate.computer/gate/cmd/gate-runtime@latest
-	go install gate.computer/services/cmd/gate-daemon@latest
-	go install gate.computer/services/cmd/gate-server@latest
+	go install gate.computer/cmd/gate-daemon@latest
+	go install gate.computer/cmd/gate-server@latest
 
 See the [extension document](https://github.com/gate-computer/gate/blob/master/Extension.md)
 for information about customizing builds.
