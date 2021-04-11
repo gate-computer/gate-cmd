@@ -10,10 +10,10 @@ export GO111MODULE := on
 
 .PHONY: all
 all:
-	$(GO) build $(GOBUILDFLAGS) -o bin/gate gate.computer/gate/cmd/gate
-	$(GO) build $(GOBUILDFLAGS) -o bin/gate-daemon ./cmd/gate-daemon
-	$(GO) build $(GOBUILDFLAGS) -o bin/gate-runtime gate.computer/gate/cmd/gate-runtime
-	$(GO) build $(GOBUILDFLAGS) -o bin/gate-server ./cmd/gate-server
+	$(GO) build $(GOBUILDFLAGS) -o bin/gate ./gate
+	$(GO) build $(GOBUILDFLAGS) -o bin/gate-daemon ./gate-daemon
+	$(GO) build $(GOBUILDFLAGS) -o bin/gate-runtime ./gate-runtime
+	$(GO) build $(GOBUILDFLAGS) -o bin/gate-server ./gate-server
 
 .PHONY: check
 check: all
