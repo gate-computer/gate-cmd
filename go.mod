@@ -3,7 +3,7 @@ module gate.computer/cmd
 go 1.17
 
 require (
-	gate.computer/gate v0.0.0-20220318153258-2775e556fd7c
+	gate.computer/gate v0.0.0-20220331175426-89cc1db13984
 	gate.computer/grpc v0.0.0-20220318145817-e550914ce9bb
 	gate.computer/localhost v0.0.0-20220217051253-65296bc45dc5
 	modernc.org/sqlite v1.15.2
