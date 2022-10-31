@@ -3,7 +3,7 @@ module gate.computer/cmd
 go 1.17
 
 require (
-	gate.computer/gate v0.0.0-20220331175426-89cc1db13984
+	gate.computer/gate v0.0.0-20221031011725-9ccd474c873a
 	gate.computer/grpc v0.0.0-20220318145817-e550914ce9bb
 	gate.computer/localhost v0.0.0-20220217051253-65296bc45dc5
 	modernc.org/sqlite v1.15.2
@@ -22,7 +22,7 @@ require (
 	github.com/gorilla/websocket v1.5.0 // indirect
 	github.com/ianlancetaylor/demangle v0.0.0-20220203202831-b7f99f1dbc96 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
-	github.com/knightsc/gapstone v0.0.0-20180903222833-a85919f1441b // indirect
+	github.com/knightsc/gapstone v0.0.0-20211014144438-5e0e64002a6e // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/naoina/go-stringutil v0.1.0 // indirect
 	github.com/naoina/toml v0.1.1 // indirect
